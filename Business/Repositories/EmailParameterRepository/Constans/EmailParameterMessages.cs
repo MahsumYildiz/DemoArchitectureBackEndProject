@@ -12,4 +12,5 @@ namespace Business.Repositories.EmailParameterRepository.Constans
         public static string DeletedEmail = "Mail adresi silindi";
         public static string UpdatedEmail = "Mail adresi güncellendi";
         public static string EmailSencSuccessiful = "Mail gönderme başarılı ";
+    }
 }
